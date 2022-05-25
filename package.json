@@ -1,0 +1,23 @@
+{
+  "name": "widgets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/smisra3/widgets.git"
+  },
+  "author": "Shubhankar Misra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smisra3/widgets/issues"
+  },
+  "homepage": "https://github.com/smisra3/widgets#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "path": "^0.12.7"
+  }
+}
